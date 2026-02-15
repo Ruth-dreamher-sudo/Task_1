@@ -18,4 +18,4 @@ The program runs in the terminal and uses a text file to persist tasks between r
 
 ## How to Run
 1. Open the project folder in a terminal
-2. Run:
+2. Run pyton:
